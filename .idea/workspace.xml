@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bad97e-68a2-453a-83ed-8f9c589be217" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Rafael_Alves.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/dir_e_help.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/olamundo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/pep8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/python-windows.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes-flask/hello.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Curso-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/livre-py/olamundo.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fundamentos-py/dir_e_help.py">
+        <entry file="file://$PROJECT_DIR$/testes-flask/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="175">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -53,14 +46,16 @@
         <option value="$PROJECT_DIR$/funcoes/funcoes.py" />
         <option value="$PROJECT_DIR$/livre-py/pep8.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/dir_e_help.py" />
+        <option value="$PROJECT_DIR$/testes-flask/hello-flask.py" />
+        <option value="$PROJECT_DIR$/testes-flask/hello.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -70,6 +65,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,19 +76,18 @@
             <path>
               <item name="Curso-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="fundamentos-py" type="462c0819:PsiDirectoryNode" />
+              <item name="testes-flask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,7 +102,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.dir_e_help">
-    <configuration name="dir_e_help" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dir_e_help" type="PythonConfigurationType" factoryName="Python">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +167,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dir_e_help" />
         <item itemvalue="Python.pep8" />
         <item itemvalue="Python.olamundo" />
       </list>
@@ -201,23 +195,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09062171" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15178572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32917964" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.48694316" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" x="603" y="242" width="1061" height="696" id="Python Console" order="10" type="WINDOWED" weight="0.81931466" />
+      <window_info anchor="bottom" x="-1652" y="135" width="1083" height="515" id="Python Console" order="10" type="WINDOWED" weight="0.81931466" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -234,13 +228,7 @@
     <entry file="file://$PROJECT_DIR$/fundamentos-py/python-windows.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/funcoes/funcoes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/funcoes.py" />
     <entry file="file://$PROJECT_DIR$/fundamentos-py/pep8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-852">
@@ -250,8 +238,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos-py/dir_e_help.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testes-flask/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
