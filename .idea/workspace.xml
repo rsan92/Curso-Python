@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/fundamentos-py/introducao/dir_e_help.py" line="7" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/fundamentos-py/introducao/dir-e-help.py" line="7" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bad97e-68a2-453a-83ed-8f9c589be217" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/introducao/recebendo_dados_usuario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/escopo-variaveis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/tipo-booleano.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/tipo-float.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/tipo-numerico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/tipo-string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/ranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-logicas/and-or-not-is.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-logicas/if-else-elif.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos-py/dir_e_help.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/introducao/dir_e_help.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos-py/olamundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/introducao/olamundo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos-py/pep8.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/introducao/pep8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos-py/python-windows.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python-windows.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos-py/estrutura-logicas/if_else_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos-py/introducao/dir_e_help.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/introducao/dir-e-help.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos-py/introducao/recebendo_dados_usuario.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/introducao/recebendo-dados-usuario.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/escopo-variaveis.py">
+        <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="173">
+              <caret line="114" column="40" lean-forward="true" selection-start-line="114" selection-start-column="40" selection-end-line="114" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -61,6 +60,13 @@
         <option value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/tipo-booleano.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/tipo-string.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/escopo-variaveis.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/estrutura-logicas/if-else-elif.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/estrutura-logicas/and-or-not-is.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-for.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/ranges.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-while.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-break.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" />
       </list>
     </option>
   </component>
@@ -78,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,17 +100,18 @@
               <item name="Curso-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso-Python" type="462c0819:PsiDirectoryNode" />
               <item name="fundamentos-py" type="462c0819:PsiDirectoryNode" />
-              <item name="variavies-e-tipo-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="colecoes-python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fundamentos-py/fundamentos-py/Scripts" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -126,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.escopo-variaveis">
+  <component name="RunManager" selected="Python.listas">
     <configuration name="dir_e_help" type="PythonConfigurationType" factoryName="Python">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Projetos-Pessoais\Curso-Python\fundamentos-py\introducao\dir_e_help.py" />
+      <option name="SCRIPT_NAME" value="C:\Projetos-Pessoais\Curso-Python\fundamentos-py\introducao\dir-e-help.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="escopo-variaveis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +162,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/colecoes-python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/escopo-variaveis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loop-break" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loop-for" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loop-while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +259,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tipo-booleano" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ranges" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,74 +267,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/tipo-booleano.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tipo-float" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/tipo-float.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tipo-numerico" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/tipo-numerico.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tipo-string" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/variavies-e-tipo-de-dados/tipo-string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/ranges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.escopo-variaveis" />
-        <item itemvalue="Python.tipo-string" />
-        <item itemvalue="Python.tipo-booleano" />
-        <item itemvalue="Python.tipo-float" />
-        <item itemvalue="Python.tipo-numerico" />
+        <item itemvalue="Python.listas" />
+        <item itemvalue="Python.loop-break" />
+        <item itemvalue="Python.loop-while" />
+        <item itemvalue="Python.ranges" />
+        <item itemvalue="Python.loop-for" />
       </list>
     </recent_temporary>
   </component>
@@ -295,6 +301,14 @@
       <option name="presentableId" value="Default" />
       <updated>1562791894456</updated>
     </task>
+    <task id="LOCAL-00001" summary="Variaveis e tipos de dados">
+      <created>1562962782384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562962782384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -323,11 +337,15 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32917964" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" x="-1652" y="135" width="1083" height="515" id="Python Console" order="10" type="WINDOWED" weight="0.81931466" />
+      <window_info anchor="bottom" x="-1652" y="135" width="1083" height="515" id="Python Console" maximized="true" order="10" type="WINDOWED" weight="0.81931466" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Variaveis e tipos de dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variaveis e tipos de dados" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fundamentos-py/introducao/olamundo.py">
@@ -355,14 +373,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/introducao/dir_e_help.py">
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/introducao/dir-e-help.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/introducao/recebendo_dados_usuario.py">
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/introducao/recebendo-dados-usuario.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
@@ -401,6 +419,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/estrutura-logicas/if-else-elif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/estrutura-logicas/and-or-not-is.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/ranges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1055577769/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="3680" column="36" selection-start-line="3680" selection-start-column="36" selection-end-line="3680" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="114" column="40" lean-forward="true" selection-start-line="114" selection-start-column="40" selection-end-line="114" selection-end-column="40" />
         </state>
       </provider>
     </entry>
