@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bad97e-68a2-453a-83ed-8f9c589be217" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/ranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-logicas/and-or-not-is.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/estrutura-logicas/if-else-elif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos-py/estrutura-logicas/if_else_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos-py/introducao/dir_e_help.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/introducao/dir-e-help.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos-py/introducao/recebendo_dados_usuario.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/introducao/recebendo-dados-usuario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py">
+        <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/dicionarios.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="114" column="40" lean-forward="true" selection-start-line="114" selection-start-column="40" selection-end-line="114" selection-end-column="40" />
+            <state relative-caret-position="350">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -67,6 +58,8 @@
         <option value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-while.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-break.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/tuplas.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/dicionarios.py" />
       </list>
     </option>
   </component>
@@ -132,7 +125,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.listas">
+  <component name="RunManager" selected="Python.dicionarios">
+    <configuration name="dicionarios" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/colecoes-python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/colecoes-python/dicionarios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="dir_e_help" type="PythonConfigurationType" factoryName="Python">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,27 +210,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loop-for" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-for.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="loop-while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ranges" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/colecoes-python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/ranges.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/colecoes-python/tuplas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dicionarios" />
+        <item itemvalue="Python.tuplas" />
         <item itemvalue="Python.listas" />
         <item itemvalue="Python.loop-break" />
         <item itemvalue="Python.loop-while" />
-        <item itemvalue="Python.ranges" />
-        <item itemvalue="Python.loop-for" />
       </list>
     </recent_temporary>
   </component>
@@ -436,13 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/ranges.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -467,14 +453,35 @@
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1055577769/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="3680" column="36" selection-start-line="3680" selection-start-column="36" selection-end-line="3680" selection-end-column="36" />
+          <caret line="3680" column="8" selection-start-line="3680" selection-start-column="8" selection-end-line="3680" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="114" column="40" lean-forward="true" selection-start-line="114" selection-start-column="40" selection-end-line="114" selection-end-column="40" />
+        <state relative-caret-position="348">
+          <caret line="166" column="19" lean-forward="true" selection-start-line="166" selection-start-column="19" selection-end-line="166" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/tuplas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/dicionarios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
