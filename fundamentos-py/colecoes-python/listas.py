@@ -8,30 +8,25 @@ lista3 = []
 lista4 = list(range(11))
 lista5 = list('Testes Testando')
 -------
-Exemplo1:
 encontre = 2
 if encontre in lista1:
     print(f'Encontrei o {encontre}')
 else:
     print(f'Não encontrei o {encontre}')
 -------
-Exemplo2:
 encontre = "e"
 if encontre in lista2:
     print(f'Encontrei o {encontre}')
 else:
     print(f'Não encontrei o {encontre}')
 -------
-Exemplo3:
 print(lista1)
 lista1.sort()
 print(lista1)
 ------
-Exemplo4
 print(lista1.count(1))
 print(lista2.count('e'))
 ------
-exemplo5
 print(lista1)
 lista1.append(1)
 lista1.append(5)
@@ -42,7 +37,6 @@ lista1.extend('testes testando')
 lista1.insert(0, 101)
 print(lista1)
 ------
-Exemplo7
 lista6 = lista1 + lista4
 print(lista6)
 lista6.sort()
@@ -50,7 +44,6 @@ print(lista6)
 lista6.reverse()
 print(lista6)
 --------
-Exemplo8
 lista6 = lista1.copy()
 print(lista6)
 excluido = lista6.pop(0)
@@ -60,7 +53,6 @@ print(excluido)
 lista6.clear()
 print(lista6)
 ---------
-Exemplo9
 curso = "Programação em Python"
 print(curso)
 curso = curso.split()
@@ -78,7 +70,6 @@ print(curso3)
 curso4 = '$'.join(lista6)
 print(curso4)
 -------
-Exemplo10
 soma = ''
 for elemento in lista2:
     soma += elemento
@@ -86,7 +77,6 @@ for elemento in lista2:
 
 print(soma)
 --------
-Exemplo11
 carrinho = []
 produto = ''
 while produto != 'sair':
@@ -98,7 +88,6 @@ while produto != 'sair':
 for produto in carrinho:
     print(produto)
 ----------
-Exemplo12
 numeros = [1, 2, 3, 4, 5]
 num1 = 1
 num2 = 2
@@ -112,14 +101,77 @@ print(numeros)
 print(numeros2)
 ------------
 Exemplo13
-cores = ['verde', 'amarelo', 'vermelho']
+cores = ['verde', 'amarelo', 'vermelho']0000
 print(cores[-1])
 print(cores[0])
 print(cores[-2])
-"""
-
+-------------
+Exemplo14
 cores = ['verde', 'amarelo', 'azul', 'branco']
 
 for indice, cor in enumerate(cores):
     print(indice, cor)
+--------------
+lista = []
+lista.append(42)
+lista.append(42)
+lista.append(33)
+lista.append(33)
+lista.append(33)
+
+print(lista)
+------------
+lista = []
+for n in range(1, 100):
+    lista.append(f"numero{n}")
+
+print(lista.index("numero11", 10))
+--------------
+# lista[inicio:fim:passo]
+lista = [1, 2, 3, 4]
+# print(lista[1:])
+print(lista[2::-1])
+--------------
+nomes = ['Testando', 'Testes']
+print(nomes)
+nomes[0], nomes[1] = nomes[1], nomes[0]
+print(nomes)
+
+nomes = ['Testando', 'Testes']
+nomes.reverse()
+print(nomes)
+----------
+lista = [1, 2, 3]
+print(lista)
+
+tupla = tuple(lista)
+print(tupla)
+
+num1, num2, num3 = lista
+print(num1)
+print(num2)
+print(num3)
+"""
+
+lista = [1, 2, 3]
+print(lista)
+
+nova = lista.copy()
+print(nova)
+
+nova.append(4)
+
+print(nova)
+print(lista)
+
+print("============")
+
+lista = [1, 2, 3]
+nova = lista
+print(lista)
+print(nova)
+
+nova.append(4)
+print(lista)
+print(nova)
 
