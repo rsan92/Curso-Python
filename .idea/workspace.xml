@@ -4,8 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/fundamentos-py/introducao/dir-e-help.py" line="7" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33bad97e-68a2-453a-83ed-8f9c589be217" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" afterDir="false" />
+    <list default="true" id="33bad97e-68a2-453a-83ed-8f9c589be217" name="Default Changelist" comment="Colecoes em Python.">
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/colecoes-python/conjuntos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/colecoes-python/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/colecoes-python/default-dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/colecoes-python/mapas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/colecoes-python/ordered-dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos-py/colecoes-python/dicionarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/colecoes-python/dicionarios.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +22,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/dicionarios.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/ordered-dict.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -60,14 +62,18 @@
         <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/tuplas.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/dicionarios.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/mapas.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/conjuntos.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/counter.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/colecoes-python/default-dict.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-192" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -77,6 +83,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,7 +106,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,7 +131,70 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dicionarios">
+  <component name="RunManager" selected="Python.default-dict">
+    <configuration name="conjuntos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/colecoes-python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/colecoes-python/conjuntos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/colecoes-python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/colecoes-python/counter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="default-dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/colecoes-python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/colecoes-python/default-dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="dicionarios" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mapas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,49 +249,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/colecoes-python/listas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="loop-break" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-break.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="loop-while" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/estrutura-de-repeticao/loop-while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/colecoes-python/mapas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,34 +279,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/colecoes-python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/colecoes-python/tuplas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.default-dict" />
+        <item itemvalue="Python.counter" />
+        <item itemvalue="Python.conjuntos" />
+        <item itemvalue="Python.mapas" />
         <item itemvalue="Python.dicionarios" />
-        <item itemvalue="Python.tuplas" />
-        <item itemvalue="Python.listas" />
-        <item itemvalue="Python.loop-break" />
-        <item itemvalue="Python.loop-while" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562962782384</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Colecoes em Python.">
+      <created>1563394086564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563394086564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -314,15 +327,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-192" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10748156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15178572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.48694316" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,7 +351,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Variaveis e tipos de dados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variaveis e tipos de dados" />
+    <MESSAGE value="Colecoes em Python." />
+    <option name="LAST_COMMIT_MESSAGE" value="Colecoes em Python." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fundamentos-py/introducao/olamundo.py">
@@ -478,12 +492,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/dicionarios.py">
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/mapas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="398">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/dicionarios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/conjuntos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/default-dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/colecoes-python/ordered-dict.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
