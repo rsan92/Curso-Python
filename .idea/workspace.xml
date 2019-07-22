@@ -4,17 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/fundamentos-py/introducao/dir-e-help.py" line="7" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33bad97e-68a2-453a-83ed-8f9c589be217" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/comprehensions/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/comprehensions/list-comprehension-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/comprehensions/list-comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/comprehensions/listas-aninhadas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/comprehensions/set-comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/funcoes/args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/funcoes/docstrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/funcoes/kwargs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="33bad97e-68a2-453a-83ed-8f9c589be217" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +14,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fundamentos-py/comprehensions/set-comprehension.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/utilizando-lambda.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -118,7 +104,7 @@
               <item name="Curso-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso-Python" type="462c0819:PsiDirectoryNode" />
               <item name="fundamentos-py" type="462c0819:PsiDirectoryNode" />
-              <item name="comprehensions" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda-e-funcao-integrada" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -346,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563565748383</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Estudo de coleções em Python">
+      <created>1563824406585</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563824406586</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -362,12 +355,12 @@
     <frame x="-1928" y="-192" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07586934" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07586934" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48598132" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.48598132" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -639,10 +632,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos-py/comprehensions/set-comprehension.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="300">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/utilizando-lambda.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
