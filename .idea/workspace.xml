@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bad97e-68a2-453a-83ed-8f9c589be217" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/funcoes/funcao-parametro-padrao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/funcoes/funcoes-parametro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/funcoes/funcoes-retorno.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Curso-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos-py/funcoes/definindo-funcoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/funcoes/definindo-funcoes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fundamentos-py/funcoes/funcao-parametro-padrao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+            <state relative-caret-position="365">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -94,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,6 +110,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563565748383</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Estudo de funcoes em Python">
+      <created>1563845500769</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563845500769</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -353,7 +354,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10695469" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -378,7 +378,8 @@
     <MESSAGE value="Variaveis e tipos de dados" />
     <MESSAGE value="Colecoes em Python." />
     <MESSAGE value="Estudo de coleções em Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estudo de coleções em Python" />
+    <MESSAGE value="Estudo de funcoes em Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudo de funcoes em Python" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fundamentos-py/introducao/olamundo.py">
@@ -463,8 +464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos-py/funcoes/funcao-parametro-padrao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+        <state relative-caret-position="365">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
