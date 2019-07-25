@@ -21,7 +21,7 @@ print(media)
 
 res = filter(lambda valor: valor > media, dados)  # Retorna os valores acima da media na tupla "dados"; media = 2.18
 print(list(res))
-"""
+------
 # Forma 1 (melhor forma)
 paises = ['', 'argentina', '', 'chile', '', 'colombia', '', '','', 'equador']
 print(paises)
@@ -41,5 +41,31 @@ print("-----Forma3---------")
 paises = ['', 'argentina', '', 'chile', '', 'colombia', '', '','', 'equador']
 res = filter(lambda pais: pais != '', paises)
 print(list(res))
+----
+usuarios = [
+    {"username": "samuel", "tweets": ["Eu adoro bolos", "Eu adoro pizzas"]},
+    {"username": "carla", "tweets": ["Eu amo meu gato"]},
+    {"username": "jeff", "tweets": []},
+    {"username": "bob123", "tweets": []},
+    {"username": "doggo", "tweets": ["Eu gosto de cachorros", "vou sair hoje"]},
+    {"username": "gal", "tweets": []}
+]
+
+#Filtras usuários inativos
+print(usuarios)
+
+inativos = list(filter(lambda usuario: len(usuario["tweets"]) == 0, usuarios))
+print(inativos)
+
+inativos = list(filter(lambda usuario: not usuario["tweets"], usuarios))
+print(inativos)
+----
+"""
+nomes = ['Vanessa', 'Ana', 'Maria']
+
+lista = list(map(lambda nome: f'Sua instrutura é: {nome}', filter(lambda nome: len(nome) < 5, nomes)))
+print(lista)
+
+
 
 
