@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1db48a3-d29b-442c-b798-dc4a90dc8bcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/erros-comuns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/erros-e-raise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/debugando-pdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except-else-finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/modulo-random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Curso-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,19 +18,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except.py">
+        <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/modulo-random.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="53" column="19" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+            <state relative-caret-position="172">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/erros-e-raise.py">
+        <entry file="file://$USER_HOME$/ppe/Lib/random.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="-7525">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -53,14 +55,17 @@
         <option value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/erros-comuns.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/erros-e-raise.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except-else-finally.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/debugando-pdb.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/modulo-random.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -87,7 +92,7 @@
               <item name="Curso-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso-Python" type="462c0819:PsiDirectoryNode" />
               <item name="fundamentos-py" type="462c0819:PsiDirectoryNode" />
-              <item name="debugando-e-tratando-erros" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalhando-com-modulos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,8 +117,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try-except">
-    <configuration name="erros-comuns" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.modulo-random">
+    <configuration name="debugando-pdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/erros-comuns.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/debugando-pdb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="len-abs-sum-round" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="modulo-random" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +168,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/len-abs-sum-round.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/modulo-random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try-except-else-finally" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except-else-finally.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,34 +223,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zip" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/zip.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.modulo-random" />
+        <item itemvalue="Python.debugando-pdb" />
+        <item itemvalue="Python.try-except-else-finally" />
         <item itemvalue="Python.try-except" />
         <item itemvalue="Python.erros-e-raise" />
-        <item itemvalue="Python.erros-comuns" />
-        <item itemvalue="Python.zip" />
-        <item itemvalue="Python.len-abs-sum-round" />
       </list>
     </recent_temporary>
   </component>
@@ -261,13 +266,13 @@
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13435195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09483667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.48598132" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48598132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -283,6 +288,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Any e Reduce" />
     <option name="LAST_COMMIT_MESSAGE" value="Any e Reduce" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="int(a) / int(b)" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/any-e-all.py">
@@ -318,13 +330,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/685953133/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="3680" column="8" selection-start-line="3680" selection-start-column="8" selection-end-line="3680" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/685953133/builtins.py" />
     <entry file="file://$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/min-e-max.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -367,6 +373,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/erros-e-raise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -374,10 +387,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except.py">
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except-else-finally.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="53" column="19" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        <state relative-caret-position="347">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/debugando-pdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="65" column="18" lean-forward="true" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ppe/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7525">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/modulo-random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
