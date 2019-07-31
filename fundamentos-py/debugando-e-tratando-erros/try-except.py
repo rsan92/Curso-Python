@@ -47,6 +47,7 @@ except:
 
 """
 
+
 def pega_valor(dicionario, chave):
     try:
         return dicionario[chave]
