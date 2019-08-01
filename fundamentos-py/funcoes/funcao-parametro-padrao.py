@@ -68,7 +68,9 @@ def fora():
         return contador
     return dentro()
 
-print(fora())
-print(fora())
-print(fora())
+
+if __name__ == '__main__':
+    print(fora())
+    print(fora())
+    print(fora())
 
