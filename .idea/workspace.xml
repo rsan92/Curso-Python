@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1db48a3-d29b-442c-b798-dc4a90dc8bcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/decoradores/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/decoradores/decoradores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/decoradores/decoradores_com_diferentes_assinaturas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/decoradores/funcoes_maior_grandeza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/decoradores/perservar_metada_com_wraps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/teste_memoria_generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/teste_velocidada_expressoes_geradoras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/decoradores/forcando_tipos_de_dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/poo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Curso-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos-py/decoradores/perservar_metada_com_wraps.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/decoradores/perservar_metada_com_wraps.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fundamentos-py/decoradores/perservar_metada_com_wraps.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -44,10 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/any-e-all.py" />
-        <option value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/generators.py" />
-        <option value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/sorted.py" />
-        <option value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/min-e-max.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/reversed.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/len-abs-sum-round.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/zip.py" />
@@ -95,6 +100,10 @@
         <option value="$PROJECT_DIR$/fundamentos-py/decoradores/decoradores_com_diferentes_assinaturas.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/fundamentos-py/decoradores/perservar_metada_com_wraps.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/decoradores/forcando_tipos_de_dados.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/poo.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/classes.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py" />
       </list>
     </option>
   </component>
@@ -112,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,13 +138,12 @@
               <item name="Curso-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso-Python" type="462c0819:PsiDirectoryNode" />
               <item name="fundamentos-py" type="462c0819:PsiDirectoryNode" />
-              <item name="decoradores" type="462c0819:PsiDirectoryNode" />
+              <item name="orientacao_a_objetos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decoradores_com_diferentes_assinaturas">
+  <component name="RunManager" selected="Python.poo">
     <configuration name="decoradores" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcoes_maior_grandeza" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="forcando_tipos_de_dados" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,7 +227,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/decoradores/funcoes_maior_grandeza.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/decoradores/forcando_tipos_de_dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste_memoria_generators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="perservar_metada_com_wraps" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/decoradores" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/teste_memoria_generators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/decoradores/perservar_metada_com_wraps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste_velocidada_expressoes_geradoras" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="poo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/teste_velocidada_expressoes_geradoras.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/poo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.poo" />
+        <item itemvalue="Python.forcando_tipos_de_dados" />
+        <item itemvalue="Python.perservar_metada_com_wraps" />
         <item itemvalue="Python.decoradores_com_diferentes_assinaturas" />
         <item itemvalue="Python.decoradores" />
-        <item itemvalue="Python.funcoes_maior_grandeza" />
-        <item itemvalue="Python.teste_velocidada_expressoes_geradoras" />
-        <item itemvalue="Python.teste_memoria_generators" />
       </list>
     </recent_temporary>
   </component>
@@ -351,16 +360,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/ppe/Lib/site-packages/openpyxl/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/python-windows.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/ppe/Lib/site-packages/pydf/wkhtmltopdf.py" />
-    <entry file="file://C:/Python37/Lib/subprocess.py" />
     <entry file="file://$PROJECT_DIR$/fundamentos-py/geek/__init__.py" />
     <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/__init__.py" />
     <entry file="file://$PROJECT_DIR$/fundamentos-py/geek/university/geek3.py" />
@@ -471,13 +470,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/685953133/nt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="326" column="4" selection-start-line="326" selection-start-column="4" selection-end-line="326" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/685953133/nt.py" />
     <entry file="file://$PROJECT_DIR$/fundamentos-py/leitura_e_escrita_de_arquivos/templates/temporario/a.txt" />
     <entry file="file://$PROJECT_DIR$/fundamentos-py/leitura_e_escrita_de_arquivos/sistema_de_arquivos_manipulacao.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -486,72 +479,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/iterators_e_iteraveis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="30" column="77" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/iterador_customizado.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/geradores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/teste_memoria_generators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/teste_velocidada_expressoes_geradoras.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/iterators_e_iteraveis.py" />
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/iterador_customizado.py" />
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/geradores.py" />
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/teste_memoria_generators.py" />
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/teste_velocidada_expressoes_geradoras.py" />
     <entry file="file://$PROJECT_DIR$/fundamentos-py/geek/geek1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/decoradores/funcoes_maior_grandeza.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="65" column="23" lean-forward="true" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/criando_um_loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/decoradores/decoradores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/decoradores/decoradores_com_diferentes_assinaturas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/decoradores/funcoes_maior_grandeza.py" />
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/iteradores_e_geradores/criando_um_loop.py" />
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/decoradores/decoradores.py" />
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/decoradores/decoradores_com_diferentes_assinaturas.py" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -561,8 +500,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos-py/decoradores/perservar_metada_com_wraps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="173">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/decoradores/forcando_tipos_de_dados.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/poo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
