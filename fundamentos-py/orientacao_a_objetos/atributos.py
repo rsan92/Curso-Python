@@ -103,8 +103,20 @@ class Produto:
         Produto.contador = self.id
 
 
-# Atributos Dinamicos
+# Atributos Dinamicos: Um atributo de instancia que pode ser criado em tempo de execucao
+# OBS: O Atributo dinamico sera exclusivo da instancia que o criou
 
+p1 = Produto('Playstation 4', 'Video Game', 2300)
+p2 = Produto('Arroz', 'Mercearia', 5.99)
 
+p2.peso = '5kg'  # "peso" nao e um atributo de Produto, foi criado exclusivamente na instancia p2
 
+# Deletando atributos
+print(p1.__dict__)
+print(p2.__dict__)
+
+del p2.peso  # Deletando o atributo dinamico
+del p2.valor
+print(p1.__dict__)
+print(p2.__dict__)
 

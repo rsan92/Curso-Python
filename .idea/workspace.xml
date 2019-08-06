@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1db48a3-d29b-442c-b798-dc4a90dc8bcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/decoradores/forcando_tipos_de_dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/poo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Curso-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo/heranca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo/propriedades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/abstracao_encapsulamento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/metodos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/objetos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos-py/decoradores/perservar_metada_com_wraps.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/decoradores/perservar_metada_com_wraps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,20 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/classes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py">
+        <entry file="file://$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo/propriedades.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="398">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -53,11 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/reversed.py" />
-        <option value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/len-abs-sum-round.py" />
-        <option value="$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/zip.py" />
-        <option value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/erros-comuns.py" />
-        <option value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/erros-e-raise.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/try-except-else-finally.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/debugando-e-tratando-erros/debugando-pdb.py" />
@@ -104,6 +89,11 @@
         <option value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/poo.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/classes.py" />
         <option value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/metodos.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/objetos.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/abstracao_encapsulamento.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo/heranca.py" />
+        <option value="$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo/propriedades.py" />
       </list>
     </option>
   </component>
@@ -138,7 +128,7 @@
               <item name="Curso-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso-Python" type="462c0819:PsiDirectoryNode" />
               <item name="fundamentos-py" type="462c0819:PsiDirectoryNode" />
-              <item name="orientacao_a_objetos" type="462c0819:PsiDirectoryNode" />
+              <item name="heranca_e_polimorfismo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,92 +162,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.poo">
-    <configuration name="decoradores" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/decoradores" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/decoradores/decoradores.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="decoradores_com_diferentes_assinaturas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/decoradores" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/decoradores/decoradores_com_diferentes_assinaturas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="forcando_tipos_de_dados" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/decoradores" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/decoradores/forcando_tipos_de_dados.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="perservar_metada_com_wraps" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/decoradores" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/decoradores/perservar_metada_com_wraps.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="poo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.propriedades">
+    <configuration name="abstracao_encapsulamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,7 +175,91 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/poo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/abstracao_encapsulamento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heranca" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo/heranca.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="metodos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/metodos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="objetos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/objetos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="propriedades" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo/propriedades.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.poo" />
-        <item itemvalue="Python.forcando_tipos_de_dados" />
-        <item itemvalue="Python.perservar_metada_com_wraps" />
-        <item itemvalue="Python.decoradores_com_diferentes_assinaturas" />
-        <item itemvalue="Python.decoradores" />
+        <item itemvalue="Python.propriedades" />
+        <item itemvalue="Python.heranca" />
+        <item itemvalue="Python.abstracao_encapsulamento" />
+        <item itemvalue="Python.objetos" />
+        <item itemvalue="Python.metodos" />
       </list>
     </recent_temporary>
   </component>
@@ -329,12 +319,12 @@
     <editor active="true" />
     <layout>
       <window_info anchor="top" content_ui="combo" id="Hierarchy" order="0" weight="0.24973433" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1459431" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1459431" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.48494288" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48494288" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,22 +350,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/geek/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/geek/university/geek3.py" />
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/geek/university/geek4.py" />
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/geek/geek2.py" />
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/test_doc.txt" />
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/modulos-externos.py" />
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/modulos-customizados.py" />
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/pacotes.py" />
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/funcoes/funcao-parametro-padrao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="71" selection-start-line="71" selection-end-line="71" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/dunder.py" />
     <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/primeiro.py" />
     <entry file="file://$PROJECT_DIR$/fundamentos-py/trabalhando-com-modulos/segundo.py" />
@@ -519,6 +493,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="117" column="44" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/classes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -526,10 +507,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/atributos.py">
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/metodos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="298">
+          <caret line="114" column="24" lean-forward="true" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/reversed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/objetos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="59" column="48" lean-forward="true" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/any-e-all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-327" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/len-abs-sum-round.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/lambda-e-funcao-integrada/map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/orientacao_a_objetos/abstracao_encapsulamento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo/heranca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="82" column="12" lean-forward="true" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos-py/heranca_e_polimorfismo/propriedades.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
