@@ -2,3 +2,5 @@
 .idea/workspace.xml
 .leitura_e_escrita_de_arquivos/arquivos_txt/*
 fundamentos-py/leitura_e_escrita_de_arquivos/arquivos_txt/frutas.txt
+Env/
+.csv
