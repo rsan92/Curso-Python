@@ -1,0 +1,3 @@
+"""
+Outros tipos de assertions
+"""
